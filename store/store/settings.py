@@ -75,7 +75,7 @@ WSGI_APPLICATION = 'store.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
-
+# this password is not correct
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
